@@ -1,0 +1,11 @@
+.margem{
+	width: 65%;
+	margin-left:17.2%;
+	margin-right: 17.2%;
+	margin-bottom: 5%;
+	margin-top: 5%;
+	color:#000000;
+	border: solid #000000 2px;
+	margin: center;
+	height: 50%;
+}
