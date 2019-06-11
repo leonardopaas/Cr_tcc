@@ -1,11 +1,29 @@
+.cabeçalho{
+	width: 100%;
+	height: 11%;
+	color:#000000;
+	border: solid #000000 ;
+	background: #2F4F4F
+
+}
+.logo{
+	margin-left: 1%;
+
+}
 .margem{
 	width: 65%;
-	margin-left:17.2%;
+	margin-left: 17.2%;
 	margin-right: 17.2%;
 	margin-bottom: 5%;
 	margin-top: 5%;
 	color:#000000;
-	border: solid #000000 2px;
+	border: solid #000000 ;
 	margin: center;
 	height: 50%;
+}
+.mar{
+	width: 10%;
+	margin-top: 5%;
+	margin-left: 5%;
+	
 }
