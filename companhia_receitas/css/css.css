@@ -1,0 +1,180 @@
+.cabeçalho{
+	width: 100%;
+	height: 15.5%;
+	border: solid #E6E6E6 0.8px ;
+}
+.barra {
+	float: left;
+	width: 100%;
+	background: #008B8B;
+	text-align:center;
+}
+
+.lado {
+	width: 33.3%;
+	float: left;
+}
+.menu {
+	float: left;
+	text-align: center;
+	padding-left: 385px;
+}
+a {
+	color: #FFF;
+	text-decoration:none;
+}
+	
+li {
+	color: #FFFFFF;
+	display: inline;
+	border-right: 2px #FFFFFF;
+	padding: 20px;
+	font-size: 20px;
+	font-variant: small-caps;	
+}
+
+img.rede {
+	width: 5%;	
+}
+
+.hm{
+	font-variant: small-caps;
+	font-size: 24px;
+
+}
+
+.b{
+	width: 100%;
+	height: 5%;
+	color:#000000;
+	border: solid #000000 0.8px ;
+}
+.cc{
+	width: 100%;
+	height: 15%;
+}
+.c{
+	width: 10%;
+	float: right;
+	margin-right: 15%;
+}
+.dado{
+	width: 100%;
+	height: 30%;
+}
+.dad{
+	width: 20%;
+	float: center;
+	margin-left: 45%;
+}
+.ema{
+	width: 8%;
+	margin-left: 30%;
+	margin-top: 0.5%;
+	color:#000000;
+}
+.mal{
+	width: 10%;
+	float:left;
+}
+.doce{
+	width: 5%;
+	margin-top: 0.5%;
+}
+
+.logo{
+	margin-left: 45%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+
+}
+.fundo{
+	background:#E6E6E6;
+}
+.ata{
+	width: 100%;
+	height: 20%;
+}
+.marLog{
+	width: 26%;
+	margin-left: 36.5%;
+	margin-right: 37.5%;
+	margin-bottom: 5%;
+	margin-top: 12%;
+	border: solid #000000 0.9px ;
+	margin: center;
+	height: 35%;
+}
+.margem{
+	width: 75%;
+	margin-left: 12.5%;
+	margin-right: 12.5%;
+	margin-bottom: 5%;
+	
+	border: solid #000000 0.8px ;
+	margin: center;
+	height: 85%;
+}
+.mar{
+	width: 50%;
+	float: left;
+	margin-top: 8%;
+	margin-left: 35%;
+}
+.marr{
+	width: 50%;
+	float: left;
+	margin-top: 8%;
+	margin-left: 35%;
+	margin-bottom: 20%;
+}
+.cama{
+	margin-top: 5px;
+}
+.bar{
+	width: 100%;
+	height: 9%;
+}
+.tapa{
+	width: 32.5%;
+	margin-left: 12%;
+	margin-top: 4%;
+}
+.tapa1{
+	width: 32.5%;
+	margin-left: 7%;
+	margin-top: 4%;
+}
+.tapa2{
+	width: 72%;
+	margin-left: 12%;
+	margin-top: 4%;
+}
+.tapa3{
+	margin-left: 12%;
+	margin-top: 4%;
+}
+.tapa4{
+	width: 30%;
+	margin-left: 22%;
+	margin-top: 4%;
+}
+.spa{
+	width: 20%;
+	float:left;
+	margin-left: 40%;
+	margin-top: 5%;
+}
+.a{
+	width: 20%;
+	margin-left: 10%;
+	margin-right: 10%;
+	height: 50px;
+
+}
+.item_left{
+	float:left;
+}
+.black{
+	text-decoration-color:black;
+}
