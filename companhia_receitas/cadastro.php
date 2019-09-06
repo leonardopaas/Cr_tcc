@@ -1,10 +1,11 @@
 <?php
 include "cabecalho.php";
 ?>
+<section class="fofao"></section>
 <section class="margem">
 		<section class="mar">
 			<section class="name">
-				<h1>Cadastro Usuario</h1>
+				<h1 class="not"><li class="hmm">Cadastro Usuario</h1>
 			</section>
 		</section>
 		<form method="post" action="controlers/controler.php?acao=cadastrar">

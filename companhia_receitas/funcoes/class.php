@@ -37,7 +37,7 @@ class Query{
    public function select($query){
   try {
 
-    $conn = new PDO('mysql:host=localhost;dbname=receitas', 'root', '');
+    $conn = new PDO('mysql:host=localhost;dbname=receitas', 'aluno', 'aluno');
     $stmt = $conn->prepare($query);
      $stmt->execute();
 
@@ -53,7 +53,7 @@ class Query{
 
   public function input($query){
   	try {
-    $conn = new PDO('mysql:host=localhost;dbname=receitas', 'root', '');
+    $conn = new PDO('mysql:host=localhost;dbname=receitas', 'aluno', 'aluno');
      $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
     $stmt = $conn->prepare($query);
