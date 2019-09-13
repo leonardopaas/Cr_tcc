@@ -20,7 +20,7 @@
 				<li class="hm"><a href="index.php">Home</a></li>
     			<li class="hm"><a href="">Catalogo</a></li>
     			<li class="hm"><a href="##">Fale Conosco</a></li>
-    			<li class="hm"><a href="##">Receitas</a></li>
+    			<li class="hm"><a href="receitas.php">Receitas</a></li>
     			<li class="hm"><a ></a></li>
     			<li class="hm"><a ></a></li>
     			<li class="hm"><a ></a></li>
