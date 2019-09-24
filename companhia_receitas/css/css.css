@@ -158,6 +158,18 @@ img.rede {
 	color:#000000;
 	border: solid #000000 0.8px ;
 }
+.tia{
+	display: inline-block;
+	position: relative;
+}
+.tia button{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform:translate3d(-50%,-50%,0);
+	-moz-transform:translate3d(-50%,-50%,0);
+	-transform: translate3d(-50%,-50%,0);
+}
 #rece{
 	width: 48%;
 	float: right;
